@@ -7,3 +7,11 @@ CS Study - CS61a (Python): I did all of the exercises from Disc01. Did them on p
 ## Day 3 - 28.11.2025
 Math study - Completed chapter 3.6. from Elementry and Intermediate Algebra by Jerome E. Kaufmann and Karen L. Schwitters.
 CS Study - CS61a (Python): I practiced some of the problems and watched the Q/A session.
+## Day 4 - 29.11.2025
+Sick day, no study.
+## Day 5 - 30.11.2025
+Sick day, no study.
+## Day 6 - 01.12.2025
+CS Study - Nand to Tetris (Part 1) - Completed module 1.
+## Day 7 - 02.12.2025
+
